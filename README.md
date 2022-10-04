@@ -1,2 +1,2 @@
 # Hyper-Text-Story
-Telling a story using html
+Using html to narrate a short story
