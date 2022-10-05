@@ -1,0 +1,28 @@
+h1{
+    color:rgb(255, 51, 51);
+    font-family: "Open Sans";
+    font-size:x-large;
+}
+
+h2{
+    color:rgb(255, 255, 255);
+    font-family: "Open Sans";
+    font-size:large;
+}
+html{
+    background-color: rgb(33, 35, 37);
+}
+body{
+    color:rgb(238, 242, 247);
+    font-family: "Open Sans";
+    font-size: small;
+    padding:10%;
+}
+a{
+    color:rgb(255, 255, 255);
+    font-family: "Open Sans";
+    font-size: small;
+    text-decoration: none;
+    background-color: rgb(255, 65, 65);
+}
+
